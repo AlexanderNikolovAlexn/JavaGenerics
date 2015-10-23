@@ -1,15 +1,15 @@
 package com.samodeika.introduction;
 
-public class CircularBuffer<T> {
-    private T[] buffer;
+public class StringCircularBuffer {
+    private String[] buffer;
     private int readCursor = 0;
     private int writeCursor = 0;
 
-    public CircularBuffer(int size) {
-        buffer = (T[]) new Object[size];
+    public StringCircularBuffer(int size) {
+        buffer = new String[size];
     }
 
-    public boolean offer(T value) {
+    public boolean offer(String value) {
         if(buffer[writeCursor] != null) {
             return false;
         }
@@ -20,8 +20,8 @@ public class CircularBuffer<T> {
         return true;
     }
 
-    public T poll() {
-        final T value = buffer[readCursor];
+    public String poll() {
+        final String value = buffer[readCursor];
         if(value != null) {
             buffer[readCursor] = null;
             readCursor = next(readCursor);
