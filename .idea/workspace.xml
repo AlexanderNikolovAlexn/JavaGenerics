@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee079795-5092-46e6-8a64-ed5be73a891a" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\GIT Projects\Java\JavaGenerics\out\production\JavaGenerics\com\samodeika\generics\SortingExamples.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/samodeika/generics/SortingExamples.java" afterPath="$PROJECT_DIR$/src/com/samodeika/generics/SortingExamples.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaGenerics.iws" />
@@ -25,57 +28,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SortingExamples.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SortingExamples.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/samodeika/generics/SortingExamples.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReverseComparator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/samodeika/generics/ReverseComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-              <folding>
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SortedPair.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/samodeika/generics/SortedPair.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36247334">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-              <folding>
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
-                <element signature="e#471#472#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AgerComparator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/samodeika/generics/AgerComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.6140725">
+              <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -114,8 +72,8 @@
         <option value="$PROJECT_DIR$/src/com/samodeika/generics/Person.java" />
         <option value="$PROJECT_DIR$/src/com/samodeika/generics/AgerComparator.java" />
         <option value="$PROJECT_DIR$/src/com/samodeika/generics/ReverseComparator.java" />
-        <option value="$PROJECT_DIR$/src/com/samodeika/generics/SortingExamples.java" />
         <option value="$PROJECT_DIR$/src/com/samodeika/generics/SortedPair.java" />
+        <option value="$PROJECT_DIR$/src/com/samodeika/generics/SortingExamples.java" />
       </list>
     </option>
   </component>
@@ -593,12 +551,12 @@
       <option name="number" value="Default" />
       <updated>1445583659460</updated>
       <workItem from="1445583660634" duration="8003000" />
-      <workItem from="1445680530640" duration="2712000" />
+      <workItem from="1445680530640" duration="4058000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10715000" />
+    <option name="totallyTimeSpent" value="12061000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -612,7 +570,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32928476" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32928476" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -655,8 +613,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
           <folding>
-            <element signature="e#837#838#0" expanded="true" />
-            <element signature="e#911#912#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="false" />
+            <element signature="e#911#912#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -666,7 +624,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -712,8 +670,8 @@
         <state vertical-scroll-proportion="0.78541374">
           <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
           <folding>
-            <element signature="e#837#838#0" expanded="true" />
-            <element signature="e#911#912#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="false" />
+            <element signature="e#911#912#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -723,7 +681,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="10" selection-end-column="59" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -733,7 +691,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -743,7 +701,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="18" selection-end-column="35" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -756,36 +714,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/samodeika/generics/AgerComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/samodeika/generics/SortingExamples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/samodeika/generics/ReverseComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="false" />
+            <element signature="e#301#302#0" expanded="false" />
+            <element signature="e#358#359#0" expanded="false" />
+            <element signature="e#425#426#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -795,11 +732,30 @@
         <state vertical-scroll-proportion="0.36247334">
           <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding>
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="false" />
+            <element signature="e#443#444#0" expanded="false" />
+            <element signature="e#471#472#0" expanded="false" />
+            <element signature="e#500#501#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samodeika/generics/AgerComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28997868">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#186#187#0" expanded="false" />
+            <element signature="e#255#256#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/samodeika/generics/SortingExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6140725">
+          <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
