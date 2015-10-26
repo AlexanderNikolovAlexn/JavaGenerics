@@ -3,10 +3,8 @@ package com.samodeika.wildcards;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.RandomAccessFile;
+import java.util.List;
 
-/**
- * Created by Eagle on 25.10.2015 ã..
- */
 public class PersonLoader {
     private final RandomAccessFile file;
 
@@ -16,5 +14,12 @@ public class PersonLoader {
 
     public Person load() throws ClassNotFoundException {
         return new Person("Not implemented", 111);
+    }
+
+    public void loadAll(List<? super Person> people) throws ClassNotFoundException {
+        Person person;
+        while ((person = load()) != null) {
+            people.add(person);
+        }
     }
 }
